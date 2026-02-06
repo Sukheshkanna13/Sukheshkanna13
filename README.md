@@ -53,13 +53,23 @@ My journey spans research, product development, and creative tech, combining ana
 </div>
 
 ---
-
-### 📊 GitHub Stats
+### 🏆 Achievements & Impact
 <div align="center">
-<a href="https://github.com/Sukheshkanna13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sukheshkanna13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukheshkanna13&layout=compact&theme=tokyonight"/>
-</a>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sukheshkanna13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukheshkanna13&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
+  <br/>
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Sukheshkanna13&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 ---
@@ -74,7 +84,8 @@ My journey spans research, product development, and creative tech, combining ana
 </div>
 
 <br />
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" alt="GitHub Loading Animation" />
-</p>
+<br />
+<br />
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+</div>
