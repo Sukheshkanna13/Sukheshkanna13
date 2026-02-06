@@ -1,18 +1,14 @@
-<h1 align="center">Hi there, I'm Sukhesh Kanna! 👋</h1>
+<h1 align="center">Hello, I'm Sukhesh Kanna! 👋</h1>
 
 <p align="center">
-  <em>CS Student at VIT Chennai | AI/ML & MLOps Enthusiast</em>
-</p>
-
-<p align="center">
-  I specialize in building intelligent systems, from <b>IoT noise classification</b> to <b>AI-driven marketing agents</b>. 
-  Currently preparing for placements and exploring <b>Cloud Computing (AWS)</b> and <b>Model Deployment</b>.
+  <em> Software Engineering Student at VIT Chennai | AI & MLOps Enthusiast</em>
 </p>
 
 ---
 
 ### 🧐 About Me
-- 🔭 I’m a tech-driven individual passionate about building intelligent systems that merge innovation with real-world impact. With a strong foundation in software engineering, I focus on solving complex problems through AI, data-driven solutions, and scalable digital technologies.
+
+🔭 I’m a tech-driven individual passionate about building intelligent systems that merge innovation with real-world impact. With a strong foundation in software engineering, I focus on solving complex problems through AI, data-driven solutions, and scalable digital technologies.
 
 My journey spans research, product development, and creative tech, combining analytical thinking with hands-on execution. I enjoy working at the intersection of machine learning, system design, and user-centric innovation—constantly exploring new ways to push boundaries and create value through technology.
 
@@ -20,18 +16,41 @@ My journey spans research, product development, and creative tech, combining ana
 
 ### 💻 Tech Stack
 <div align="center">
+
+  <h4>Languages</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br />
+
+  <h4>AI, Data & MLOps</h4>
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <br />
+
+  <h4>Web & Backend Systems</h4>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
+  <br />
+
+  <h4>Cloud, DevOps & Fundamentals</h4>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-121011?style=for-the-badge&logo=leetcode&logoColor=white" />
 </div>
 
 ---
