@@ -12,9 +12,7 @@
 
 ### 🧐 About Me
 
-🔭 I’m a tech-driven individual passionate about building intelligent systems that merge innovation with real-world impact. With a strong foundation in software engineering, I focus on solving complex problems through AI, data-driven solutions, and scalable digital technologies.
-
-My journey spans research, product development, and creative tech, combining analytical thinking with hands-on execution. I enjoy working at the intersection of machine learning, system design, and user-centric innovation—constantly exploring new ways to push boundaries and create value through technology.
+🔭I am a software engineer dedicated to building intelligent ecosystems that transform complex data into real-world impact. My expertise spans AI innovation, MLOps, and scalable infrastructure, combining analytical research with hands-on execution. I thrive at the intersection of Machine Learning and Product Design, constantly exploring new ways to push technical boundaries.
 
 ---
 
