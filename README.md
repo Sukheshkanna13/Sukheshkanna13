@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em> Software Engineering Student at VIT Chennai | AI & MLOps Enthusiast</em>
+  <em> Software Engineering - AI & MLOps Enthusiast</em>
 </p>
 
 ---
